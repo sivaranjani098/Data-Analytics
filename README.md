@@ -1,2 +1,4 @@
-# DataAnalytics-project TechnoHacks
-Data analytics project 
+# DataAnalytics_TechnoHacks
+# Table of contents
+  #Perform data cleaning
+    
